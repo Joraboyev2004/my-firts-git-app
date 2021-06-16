@@ -1,0 +1,178 @@
+.App {
+  text-align: center;
+}
+.main{
+  background: #f6ecdc !important ; 
+}
+
+.header{
+  background: #f6ecdc !important ; 
+}
+
+.footer{
+  background: #f6ecdc !important ; 
+}
+
+
+.nav_item{
+ color: #383c41 !important;
+  margin-left: 15px;
+  font-size: 17px;
+  transition: 200ms;
+}
+
+.nav_item:hover{
+  color: black !important;
+  transition: 200ms;
+}
+
+.defaultColor{
+  color: #f8601c !important;
+}
+.defaultColorr{
+  background: #f6ecdc !important ; 
+}
+
+.logo{
+  color: #f8601c !important;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.header_lorem_div{
+  padding: 40px 60px !important;
+  margin-bottom: 80px;
+}
+
+
+@media screen and ( min-width: 700px)  {
+     .header_lorem_div{
+       padding: 60px 120px !important;
+       margin-bottom: 130px;
+     }
+}
+
+
+.play_icon_span{
+  background: #f8601c !important;
+  color: white;
+  
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  border-radius: 50%;
+}
+
+
+.services_icon{
+ color: #f8601c;
+ font-size: 50px; 
+}
+
+.services_p_title{
+  font-size: 22px;
+} 
+ 
+
+.services_p{
+  line-height: 32px;
+}
+
+.Card_Img{
+ width: 98%;
+ height: 98%;
+ margin-bottom: 15px;
+ transition: 500px;
+}
+
+.Card_Img:hover{
+  transition: 500ms;
+  width: 100%;
+  height: 100%;
+}
+
+.rasm{
+  border-radius: 50% !important;
+}
+
+.carousel{
+  background: #f6ecdc !important ; 
+  border: none !important;
+}
+
+.Container p li{
+   color: rgb(207, 205, 200) !important;
+   transition: 200ms !important;
+}
+
+.Container li:hover{
+  color: black !important;
+  transition: 200ms !important;
+}
+.Container{
+  margin-top: 80px !important;
+}
+
+.Footer_icon{
+  color: #f8601c
+}
+
+
+.container{
+  padding-top: 80px !important;
+  padding-bottom: 80px !important;
+}
+
+.ulli{
+text-decoration: overline !important;
+}
+.Who{
+  font-family: 'Mulish', sans-serif;
+}
+
+.About_icon{
+  padding: 15px 21px;
+  border-radius: 50%;
+  color:  #f8601c ;
+
+  background:   #f6ecdc !important ;
+}
+
+.About_iconn{
+  padding: 15px 19px;
+  border-radius: 50%;
+  color:  #f8601c ;
+
+  background:   #f6ecdc !important ;
+margin-left: 10px !important;
+}
+.CardBody{
+  color: black;
+}
+.CardBody:hover{
+  color:  #f8601c !important;
+}
+.Cardtext{
+  color: #98999b;
+}
+.Card{
+  border: none !important;
+}
+
+.number{
+  color:  #f8601c !important;
+}
+.number:hover{
+  color: #323233 !important;
+}
+
+.button {
+  border-radius: 35px !important;
+  background-color: #f8601c !important;
+  border: none !important;
+}
+.button:hover{
+  background: #b1582f !important;
+}
